@@ -1,2 +1,2 @@
-# Airfare-insights-Dashboard
-The "Indian Airfare Insights" Power Bi dashboard provides a comprehensive visualization of airfare trends within the Indian aviation market
+The "Indian Airfare Insights" Power Bi dashboard
+provides a comprehensive visualization of airfare trends within the Indian aviation market. Leveraging data from various airlines, routes, and travel periods, this dashboard aims to offer valuable insights into the factors influencing airfare pricing and travel patterns. Key features of the dashboard include interactive visualizations that allow users to explore price fluctuations over time, compare fares across different airlines, and analyze regional travel patterns between major cities in India.
